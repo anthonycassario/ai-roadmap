@@ -1,2 +1,2 @@
 # ai-roadmap
-The journey of learning AI. Current projects and Notes.
+My journey of learning AI. Current projects and Notes.
